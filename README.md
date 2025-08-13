@@ -2,10 +2,14 @@
 
 <div align="center">
 
-  # 🦋 Tech Stack 🦋
+<h1># Tech Stack</h1>
+<div>
+  <h2>Back-end</h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-2e4c6d?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
 
   <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
