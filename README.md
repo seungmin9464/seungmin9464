@@ -3,7 +3,10 @@
 <div>
 
 <h1># Tech Stack</h1>
-<code class="hljs language-markdown">![<span class="hljs-string">header</span>](<span class="hljs-link">https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=10&amp;height=200&amp;text=JJINUENG's%20GITHUB&amp;fontSize=50&amp;animation=twinkling&amp;fontAlign=68&amp;fontAlignY=36</span>)</code>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 <div>
   <h2 style="border-bottom: none">Back-end</h2>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
